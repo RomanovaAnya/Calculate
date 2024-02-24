@@ -4,7 +4,7 @@
 
 Интерфейс главной веб-страницы:
 ![image](https://github.com/RomanovaAnya/Calculate/assets/161150961/a9d91442-1ec0-49f3-a5c8-2bd056a663d7)
-Сложени:
+Сложение:
 ![image](https://github.com/RomanovaAnya/Calculate/assets/161150961/9e39b121-5aa2-41b4-8b5d-c2ddef1d453a)
 Вычитание:
 ![image](https://github.com/RomanovaAnya/Calculate/assets/161150961/f55a814b-e8a8-4ca8-b2e7-12330a0ca4cd)
